@@ -1,0 +1,47 @@
+.usage {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.usage-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid gray;
+    margin-right: 15px;
+    width: 100px;
+}
+
+.usage-item label {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.colorChange {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    flex-direction: column;
+}
+
+.greenbtn {
+    background-color: green;
+    color: white;
+}
+
+.bluebtn {
+    background-color: blue;
+    color: white;
+}
+
+.boom {
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    height: 50px;
+    margin-top: 50px;
+}

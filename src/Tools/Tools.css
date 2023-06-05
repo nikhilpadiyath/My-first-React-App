@@ -1,0 +1,25 @@
+.list-tools {
+    padding: 20px;
+    margin-bottom: 50px;
+    background-color: papayawhip;
+    border: 1px solid gray;
+}
+
+.list-footer {
+    font-size: 14px;
+}
+
+.refresh {
+    cursor: pointer;
+    margin-top: 15px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid blue;
+    font-weight: bold;
+    width: 70px;
+    padding: 10px;
+    height: 40px;
+    margin-left: 15px;
+}
